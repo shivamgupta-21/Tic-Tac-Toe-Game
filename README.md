@@ -21,6 +21,7 @@
 ● Use CSS for responsive design to ensure the game works on various screen sizes.
 
 **JavaScript Game Logic:**
+
 ● Implement the game logic to allow two players to take turns.
 
 ● Check for a win condition (three in a row, column, or diagonal) or a tie.
@@ -30,6 +31,7 @@
 ● Provide a button to reset the game for a new round.
 
 **User Interaction:**
+
 ● Allow players to click on empty cells to make their moves.
 
 ● Prevent further moves after a game has ended (win or tie).
