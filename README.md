@@ -1,4 +1,4 @@
-**#Project Objectives**
+**# Project Objectives**
 
 ● Create a user-friendly interface for the Tic-Tac-Toe game using HTML and CSS.
 
@@ -6,7 +6,7 @@
 
 ● Ensure that the game is responsive and works on both desktop and mobile devices.
  
- **#Project Requirements**
+ **# Project Requirements**
  
 **HTML Structure:**
 
